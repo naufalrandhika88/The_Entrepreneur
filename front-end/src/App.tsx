@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>The entreprenreur app.tsx welcome app!</Text>
+      <Text>The entreprenreur app.tsx EDIT BY MALVIN</Text>
     </View>
   );
 }
